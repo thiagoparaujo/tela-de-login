@@ -1,6 +1,6 @@
 # Tela de Login Responsiva
 
-Este projeto consiste em uma **tela de login simples e moderna**, desenvolvida com **HTML** e **CSS**, com suporte a **login via redes sociais**.
+Este projeto consiste em uma **tela de login simples e moderna**, desenvolvida com **HTML 5** e **CSS3**, com suporte a **login via redes sociais**.
 
 ## Funcionalidades
 
@@ -23,3 +23,8 @@ Este projeto consiste em uma **tela de login simples e moderna**, desenvolvida c
 
 1. Clone ou faça o download deste repositório.
 2. Abra o arquivo `tela-login.html` em seu navegador para visualizar a tela de login.
+
+### Telas (screen)
+   
+![tela-login-resp](https://github.com/user-attachments/assets/b1e87a25-b8c3-4b40-831e-1dee5829d77f)
+![tela-login](https://github.com/user-attachments/assets/4b491f40-695b-4ea8-91c7-c9cef957686f)
